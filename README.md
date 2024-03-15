@@ -115,7 +115,7 @@ The tools used in this project include:
 - Python 3.12.0
 
 ## Authors
-- Vikas Bhat - [Github Profile](https://github.com/AbhishekGit-hash)
+- Vikas Bhat - [Github Profile]([https://github.com/AbhishekGit-hash](https://github.com/vbhatsaccnt)https://github.com/vbhatsaccnt)
 
 
 
